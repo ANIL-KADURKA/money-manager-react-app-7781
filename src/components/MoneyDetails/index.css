@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.money-details {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: auto;
+  padding: 15px;
+}
+
+.card {
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+  background-color: #cffafe;
+  width: 220px;
+  margin: 12px;
+}
+.card2 {
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+  background-color: #ecfccb;
+  width: 220px;
+  margin: 12px;
+}
+.card3 {
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+  background-color: #ede9fe;
+  margin: 12px;
+  width: 220px;
+}
+.image-icon {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+}
+.d-para {
+  font-size: 14px;
+  font-weight: 200;
+  margin-top: 20px;
+}
+.d-amount {
+  font-size: 20px;
+  font-weight: 500;
+  padding: 10px;
+}

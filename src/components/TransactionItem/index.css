@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.li-fix {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  color: black;
+}
+.li-para {
+  font-size: 16px;
+  font-weight: 400;
+  margin: 3px;
+}
+.horizontal {
+  height: 1px;
+  width: 300px;
+  border: 1px solid grey;
+}
